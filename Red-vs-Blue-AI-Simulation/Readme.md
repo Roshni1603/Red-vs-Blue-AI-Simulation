@@ -22,7 +22,7 @@ RedBlue-AI-Simulation/
 │   └── research_paper.pdf      # Final research paper
 ├── presentation/
 │   └── presentation.pdf        # Final presentation slides
-
+```
 
 ---
 
@@ -38,17 +38,19 @@ RedBlue-AI-Simulation/
 
 1. **Clone the repository**:
 git clone https://github.com/Roshni1603/Red-vs-Blue-AI-Simulation.git
-
+```
 cd Red-vs-Blue-AI-Simulation
-
+```
 
 2. **Install dependencies**:
+```
 pip install -r requirements.txt
+```
 
-
-3. **Run the simulation**:
+4. **Run the simulation**:
+```
 python src/simulate.py
-
+```
 ---
 
 ##  Tools & Libraries Used
