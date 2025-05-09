@@ -37,19 +37,16 @@ RedBlue-AI-Simulation/
 ## How to Run
 
 1. **Clone the repository**:
-```bash
 git clone https://github.com/Roshni1603/Red-vs-Blue-AI-Simulation.git
 
 cd Red-vs-Blue-AI-Simulation
 
 
 2. **Install dependencies**:
-```bash
 pip install -r requirements.txt
 
 
 3. **Run the simulation**:
-```bash
 python src/simulate.py
 
 ---
